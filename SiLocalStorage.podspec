@@ -1,5 +1,5 @@
 Pod::Spec.new do |spec|
-  spec.name                  = "LocalStorage"
+  spec.name                  = "SiLocalStorage"
   spec.version               = "0.0.1"
   spec.ios.deployment_target = '11.0'
   spec.summary               = "LocalStorage"
